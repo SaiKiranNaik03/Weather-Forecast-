@@ -1,11 +1,38 @@
-# Preview
-![Preview](image.png)
+# Weather Forecast App 🌤️
 
-# React + Vite
+A visually appealing and intuitive Weather Forecast App that provides real-time weather updates and detailed forecasts for any location worldwide.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## Features 🚀
+- 🌦️ **Current Weather Data**: Displays current temperature, weather condition, and location-specific details.
+- 📊 **Detailed Weather Metrics**:
+  - Min & Max Temperature
+  - Humidity
+  - Wind Speed
+  - Visibility
+  - Atmospheric Pressure
+- 🌍 **Search Functionality**: Search for weather information by city name.
+- 🌅 **Dynamic Background**: Beautiful dynamic background that changes based on the time of day or weather conditions.
+- 💻 **Responsive UI**: User-friendly interface optimized for both desktop and mobile devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## Tech Stack 🛠️
+### Frontend:
+- **HTML**: Structuring the app.
+- **CSS**: Styling for an elegant look.
+- **JavaScript**: Core functionality and interactivity.
+- **React**: Component-based framework for seamless UI rendering.
+
+### API:
+- **OpenWeatherMap**: For fetching real-time weather data.
+
+---
+
+## Installation and Setup ⚙️
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/weather-forecast-app.git
+   cd weather-forecast-app
