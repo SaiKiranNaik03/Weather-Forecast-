@@ -54,10 +54,25 @@ A visually appealing and intuitive Weather Forecast App that provides real-time 
    ```
    
 ## How It Works 📖
-Search for a Location:
-Use the search bar to input the name of the desired location.
-View Weather Data:
-The app displays temperature, humidity, wind speed, visibility, and atmospheric pressure.
-Provides a description of the current weather condition (e.g., "haze") and how it feels.
-Dynamic Display:
-The background image adjusts based on the location and time, offering a visually immersive experience.
+1.Search for a Location:
+- Use the search bar to input the name of the desired location.
+2. View Weather Data:
+- The app displays temperature, humidity, wind speed, visibility, and atmospheric pressure.
+- Provides a description of the current weather condition (e.g., "haze") and how it feels.
+3. Dynamic Display:
+- The background image adjusts based on the location and time, offering a visually immersive experience.
+
+## Screenshots 📸
+![image](https://github.com/user-attachments/assets/4964c792-7088-4b61-a32c-8c9859745982)
+
+## Project Structure 📁
+![image](https://github.com/user-attachments/assets/a49c932d-a418-4f31-bd9c-683bde8b9cf9)
+
+## Acknowledgements 🙌
+- [Visit OpenWeatherMap](https://openweathermap.org/)
+- [React Documentation](https://legacy.reactjs.org/docs/getting-started.html)
+- [Vite Documentation](https://vite.dev/)
+
+
+
+
