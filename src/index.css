@@ -1,3 +1,7 @@
 body{
-  background-image: url("E:\Web Dev\React\react-mini-project\src\assets\background.jpg");
+  background-image: url("./assets/blurBG1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
